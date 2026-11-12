@@ -8,9 +8,9 @@ Public downloads and version history for ARC’TYNOVA Desk products. Each releas
 
 | 产品 / Product | 平台 / Platform | 下载 / Download |
 | --- | --- | --- |
-| Desk for Claude | Windows x64 | [v0.1.35](https://github.com/xu18725858249-jpg/arctynova-desk-downloads/releases/tag/desk-for-claude-v0.1.35) · [官网 / Website](https://claude.arctynovadesk.com/) |
+| Desk for Claude | Windows x64 | [v0.1.40](https://github.com/xu18725858249-jpg/arctynova-desk-downloads/releases/tag/desk-for-claude-v0.1.40) · [官网 / Website](https://claude.arctynovadesk.com/) |
 
-版本标签使用产品标识加版本号，例如 desk-for-claude-v0.1.35。请从版本页的 Assets 下载安装包。
+版本标签使用产品标识加版本号，例如 desk-for-claude-v0.1.40。请从版本页的 Assets 下载安装包。
 
 Release tags pair the product name with the version. Download the installer from the Assets section on its release page.
 
